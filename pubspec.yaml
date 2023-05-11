@@ -1,6 +1,6 @@
 name: jard
 description: Package for json encode and decode.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/GlebBatykov/jard
 
 environment:
