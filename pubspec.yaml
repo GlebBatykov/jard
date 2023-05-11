@@ -6,7 +6,7 @@ repository: https://github.com/GlebBatykov/jard
 environment:
   sdk: ">=2.19.2 <3.0.0"
 
-tags:
+topics:
   - json
   - encode
 
