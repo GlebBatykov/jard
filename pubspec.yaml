@@ -1,7 +1,7 @@
 name: jard
-description: A sample command-line application.
+description: Package for json encode and decode.
 version: 1.0.0
-repository: https://github.com/my_org/my_repo
+repository: https://github.com/GlebBatykov/jard
 
 environment:
   sdk: ">=2.19.2 <3.0.0"
